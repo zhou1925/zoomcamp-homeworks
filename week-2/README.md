@@ -158,7 +158,7 @@ SELECT * FROM ny_taxi.green_taxi LIMIT 10
 
 
 upload to GCS partitioned by "lpep_pickup_date" and using pyarrow
-```pyhton
+```python
 import pyarrow as pa
 import pyarrow.parquet as pq
 import os
@@ -188,4 +188,6 @@ def export_data(data, *args, **kwargs):
     )
 ```
 
-
+# images and my trigger
+![1](imgs/1.JPG)
+![2](imgs/2.JPG)
