@@ -1,5 +1,4 @@
-# My ZoomCamp Homework Repository :3
-
+# 🚀 My ZoomCamp Homework Repository 📚
 This repository is a collection of my homework assignments for ZoomCamp.
 
 ## Week 2
